@@ -1,2 +1,2 @@
-# vanilla-js-studentprojects-project14-codeinterviewquestions
+# vanilla-js-studentprojects-project28-codeinterviewquestions
 Code interview Questions
